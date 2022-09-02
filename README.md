@@ -17,3 +17,6 @@
 ![sm2](https://user-images.githubusercontent.com/80634110/136662670-4176d5ff-32e9-40c4-8a96-402a5bcab1d0.PNG)
 #updating data
 ![sm3](https://user-images.githubusercontent.com/80634110/136662671-9a849462-4495-41d9-9fe0-4e983e8c83af.PNG)
+
+![mg](https://user-images.githubusercontent.com/80634110/188207847-34673915-54a6-4814-a4ae-f2f44f175fad.png)
+
